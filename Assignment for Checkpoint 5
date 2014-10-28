@@ -1,0 +1,56 @@
+# Three websites I like
+
+## [Apple](http://www.apple.com)
+  1. What problem is it trying to solve?
+     * On the header, Categorize all their products for sale, offer supports and search function.
+     * Showcase the most popular or foucsed product(Ipad Air 2 for now) on the main banner.
+     * Introduce some featured services such as new computer system.
+  2. Make a list of what you like about the site and explain why.
+     * Clear layout for easily viewing and searching whatever user want, which is extremly understood by them: Grayscale for color
+       scheme, clear and direct arrangement for all the buttons that are useful.
+     * Crazy minimalism: Don't have anything redundant even such as drop-down box on the navigation bar.  
+     * Unique search bar: different from some general ones.
+  3. Make a list of what you do not like about the site and explain why.
+     * One issue about inconsistency: the link closely below the showcase of iPad Air 2, 'Watch the keynote', direct users to the 
+       page of 'Apple Event', which is not content-related.
+  4. How would you fix those dislikes to make the site better?
+     * Make another showcase for this apple event to make them a Carousel, or make it another image that is clickable as ones above
+       the footer.
+       
+## [Twitter](http://www.twitter.com)
+  1. What problem is it trying to solve?
+     * Offer a community where users can connect, follow their focused people, share their feeling daily online, etc.
+  2. Make a list of what you like about the site and explain why.
+     * Accessibility: Display all the clickable links to make sure that users understand where they can click and enter the next page they 
+       are interested in
+     * The color of theme is pleased to see and the rationally arrangement of layout is easy to read: On the main content, it
+       just has four components: 'Profile', 'Trends', 'Tweets' and 'Who to follow', which can be easily recoginized and understood by
+       users.
+     * Good idea to deal with the footer in 'infinite Scroll’ design pattern: it avoid the disappear of footer by moving it to the bottom
+       right corner area.
+  3. Make a list of what you do not like about the site and explain why.
+     * Repeat between Profile image on the main content area and one on the top right corner of the header.
+     * When scroll down to some extent, there are no content on the both side of area of tweets, which is a little boring.
+     * The unorganized footer(On the right hand now).
+  4. How would you fix those dislikes to make the site better?
+     * Change the image of profile on the header into more abstract thumnail
+     * Add some hover box such as chatting with friends online
+     * Add some vertical bar character "|" to device them and make them orgranized.
+
+## [Google](http://www.google.com)
+  1. What problem is it trying to solve?
+     * Provide a searching function for users
+     * Introduce some of their core and popular products or application such as Google+, Gmail and Image searching.
+     * Promote their markting services such as social media.
+  2. Make a list of what you like about the site and explain why.
+     * Simplistic sytle, pleasant to see: mainly from white and gray
+     * Clear layout: less buttons but achieve several imporant controls such as search function or some core products or service
+       from Google.
+     * Interesting contorl: the image above the seraching box introduce what happened today or how events or people have someth-
+      ing to do with today's date in history & The button 'I am feeling lukcy' direct users to some specific pages that is rela-
+      tive to the outcome of roll-up.
+  3. Make a list of what you do not like about the site and explain why.
+     * It is not so easy for users to totally understand what the button ''I am feeling lukcy' is meant to and used for.
+  4. How would you fix those dislikes to make the site better?
+     * Make a hover to introduce the intention more clear, or make room for introduction in the next page after users clicked
+       button.
